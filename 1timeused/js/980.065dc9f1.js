@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunk_1timeused_quasar"]=self["webpackChunk_1timeused_quasar"]||[]).push([[980],{7980:(e,u,s)=>{s.r(u),s.d(u,{default:()=>d});var n=s(9835);function r(e,u,s,r,t,a){return(0,n.wg)(),(0,n.iD)("h1",null,"About One Time Used")}const t={};var a=s(1639);const c=(0,a.Z)(t,[["render",r]]),d=c}}]);
