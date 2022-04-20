@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunk_1timeused_quasar"]=self["webpackChunk_1timeused_quasar"]||[]).push([[471],{1471:(e,u,n)=>{n.r(u),n.d(u,{default:()=>c});var r=n(9835);function s(e,u,n,s,t,a){return(0,r.wg)(),(0,r.iD)("h1",null,"hello mein term hun")}const t={};var a=n(1639);const l=(0,a.Z)(t,[["render",s]]),c=l}}]);
